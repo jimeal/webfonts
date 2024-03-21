@@ -1,6 +1,13 @@
 # 프리텐다드 글꼴 웹폰트 적용방법
 
-<a href="https://creativestudio.kr/3179">참조사이트</a>
+[참조사이트](https://creativestudio.kr/3179)   
+[시스템폰트 다운로드](./Pretendard-sy.zip)   
+[웹폰트 다운로드](./Pretendard.zip)
+
+## CSS설정
+```css
+    font-family: 'NanumSquareNeo';
+```
 
 ## 일반적인 경우  
 **CSS**
@@ -113,5 +120,4 @@
     font-display: swap;
 }
 ```   
-
 <br>
