@@ -9,6 +9,10 @@ Regular(400), Bold(700), Extra Bold(800), Light(300) 지원됩니다. + ac(R, B,
 <br>
 
 **사용방법**   
+## CSS 설정
+```css
+font-family: 'NanumSquare';
+```
 ## 링크방식
 **HTML**
 ```html
